@@ -1,4 +1,4 @@
-# v1.1
+# Loja Eletron
 Essa e a versao inicial do codigo fonte
 
 # ELETRON
