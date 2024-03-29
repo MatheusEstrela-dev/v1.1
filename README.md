@@ -15,12 +15,12 @@ A Iniciativa do projeto tem como objetivo, suprir a  necessidade do mercado por 
 
 * Arthur Gaspar
 * Gabriel Nakazato
-* Matheus Etrela
+* Matheus Estrela
 * Vitor Hugo
 * Yuji Ohasi
 
 ## Orientadora
 
-* Amalia Vascoincelos
+* Amalia Vasconcelos
 
 # Documentação
